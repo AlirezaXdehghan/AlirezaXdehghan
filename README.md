@@ -53,7 +53,4 @@ I'm currently a mere student at [University of Padua](https://unipd.it), I know 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ThisIsADX)
 </p>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezaxdehghan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="alireza's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaxdehghan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
