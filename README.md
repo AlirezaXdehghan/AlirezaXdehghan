@@ -11,7 +11,7 @@ I'm currently a mere student at [University of Padua](https://unipd.it), I know 
 
  **I am open to**:
 
-- any software development internship oppurtunities,
+- any software development work oppurtunities,
 - innovative machine learning projects,
 - any kind of research or fun projects on Algorithmic trading
 - Talking!
