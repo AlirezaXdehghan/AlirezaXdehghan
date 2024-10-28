@@ -1,20 +1,16 @@
-### Ciao! I'm Alireza Dehghan 👋
+### Ciao! I'm Alireza 👋
 
-I'm currently a mere student at [University of Padua](https://unipd.it), I know lots of unusual stuff which come in handy in absurd situations; but the PG-13 ones are my IT knowledge, OSINT and programming; the last one has been accompanied by fidgeting with ML models lately. I like wasting my time with algorithmic trading too.
+I'm an alumnus of the University of Padua[University of Padua](https://unipd.it), I know lots of unusual stuff which come in handy in absurd situations; but the PG-13 ones are my IT knowledge, OSINT and programming; the last one has been accompanied by fidgeting with ML models lately. I like wasting my time with algorithmic trading too.
 
 
 **My interests**:
 - Algorithmic trading
 - Computer vision
 - OSINT
-- Crypto (who doesn't lately?)
+- Game Dev
 
  **I am open to**:
-
-- any software development work oppurtunities,
-- innovative machine learning projects,
-- any kind of research or fun projects on Algorithmic trading
-- Talking!
+- Nothing, I'm old
 
 ## Skills:
 
