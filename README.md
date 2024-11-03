@@ -1,6 +1,6 @@
 ### Ciao! I'm Alireza 👋
 
-I'm an alumnus of the University of Padua[University of Padua](https://unipd.it), I know lots of unusual stuff which come in handy in absurd situations; but the PG-13 ones are my IT knowledge, OSINT and programming; the last one has been accompanied by fidgeting with ML models lately. I like wasting my time with algorithmic trading too.
+I'm an alumnus of the [University of Padua](https://unipd.it), I know lots of unusual stuff which come in handy in absurd situations; but the PG-13 ones are my IT knowledge, OSINT and programming; the last one has been accompanied by fidgeting with ML models lately. I like wasting my time with algorithmic trading too.
 
 
 **My interests**:
