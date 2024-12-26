@@ -1,16 +1,18 @@
 ### Ciao! I'm Alireza 👋
 
-I'm an alumnus of the [University of Padua](https://unipd.it), I know lots of unusual stuff which come in handy in absurd situations; but the PG-13 ones are my IT knowledge, OSINT and programming; the last one has been accompanied by fidgeting with ML models lately. I like wasting my time with algorithmic trading too.
+I'm an alumnus of the [University of Padua](https://unipd.it), I know lots of unusual stuff which come in handy in absurd situations; but the PG-13 ones are my IT knowledge, OSINT and programming; the last one has been accompanied by fidgeting with ML models lately. I like wasting my time with algorithmic trading too. I'm also a sucker for good write-ups on bugs and vulnerabilities.
 
 
 **My interests**:
 - Algorithmic trading
-- Computer vision
+- Pen Testing
 - OSINT
 - Game Dev
+- I'm lying, I'm a merc, pay me enough and my interests change
+- [Dad] Jokes
 
  **I am open to**:
-- Nothing, I'm old
+- Nothing, I'm old and bitter
 
 ## Skills:
 
